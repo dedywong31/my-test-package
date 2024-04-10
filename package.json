@@ -1,0 +1,22 @@
+{
+  "name": "my-test-package",
+  "version": "1.0.0",
+  "description": "First Test Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedywong31/my-test-package.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "dedywong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedywong31/my-test-package/issues"
+  },
+  "homepage": "https://github.com/dedywong31/my-test-package#readme"
+}

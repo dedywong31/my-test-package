@@ -1,8 +1,8 @@
 {
   "name": "my-test-package-31",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "First Test Package",
-  "main": "index.jsx",
+  "main": "index.js",
   "scripts": {
     "test": "npm run test"
   },

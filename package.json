@@ -1,6 +1,6 @@
 {
   "name": "my-test-package-31",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "First Test Package",
   "main": "index.js",
   "scripts": {

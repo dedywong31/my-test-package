@@ -2,4 +2,4 @@ function Title() {
   return 'Antony'
 }
 
-export default Title
+module.exports = Title
